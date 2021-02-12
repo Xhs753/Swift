@@ -1,10 +1,10 @@
 class student{
-    private var name:String = ""
-    private var age:Int = -1
-    private var score:Double = -1.0
+    private var name:String = ""//定义一个文本类型“string”的名字name变量函数
+    private var age:Int = -1//定义一个整数类型Int并减去1的年龄age变量函数
+    private var score:Double = -1.0//使用浮点double（使用double可以使值代有小数点，使结果更加准确）定义一个带有小数点的分数score变量函数
     private var ispass:Bool = false
 
-    public static let schoolName = "北京大学"
+    public static let schoolName = "北京大学"//使用static定义一个通用的（public)学校名，注意：static的功能是规定一个范围内的变量，这里的意思是规定一个通用的学校名字为“北京大学”的范围内常量
 
     convenience init(){
         self.init(name:"unknow",age:0,score:0.0)
