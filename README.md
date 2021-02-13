@@ -595,16 +595,5 @@ if errorCode != nil {
 
 ## 参考教程
 
-- [The Swift Programming Language 中文版](http://special.csdncms.csdn.net/the-swift-programming-language-in-chinese/Introduction.shtml)
-- [官方文档The Swift Programming Language](https://swift.org/documentation/#the-swift-programming-language)
-- [官方文档的中文版The Swift Programming Language中文版](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
-- [Swift3.0语法速查手册](https://darielchen.github.io/SwiftManual/)
-- [深入浅出 Swift 3](https://www.shiyanlou.com/courses/611)
-- [Swift教程](http://c.biancheng.net/cpp/swift/jiaocheng/)
-- [慕课网Swift教程](http://www.imooc.com/search/course?words=swift)
-- [Swift 必备 tips](http://swifter.tips)
+
 - [Swift 学习指引](http://www.swiftguide.cn)
-- [swiftcafe](http://swiftcafe.io)
-- [SwiftGG](http://swift.gg)
-- [swiftweekly](http://swiftweekly.cn)
-- [dianqk](http://blog.dianqk.org)
