@@ -3,7 +3,7 @@
 #如果想便捷下载官方文档中文版请点击https://github.com/Xhs233/MySwift/releases
 
 -Swift学习笔记
--Swift学习过程代码
+-Swift学习过程的代码在Testfile文件夹中
 喜欢的给个星⭐⭐呗~
 😘😘😘
 
