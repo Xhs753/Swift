@@ -6,7 +6,7 @@ if (ads == true && money <= 2000) {
 } else {
     print("You is vip now!!!")
 }
-//上述代码的意思是：如果所设定的布尔型（Bool）变量函数ads的为(true)正确，那么就打印 “plesae pa for some money$"字样
+//上述代码的意思是：如果所设定的布尔型（Bool）变量函数ads为(true)正确，并且所设的money的整数值(Int)小于或等于2000时，那么就打印 “plesae pa for some money$"字样
 
 //笔记：string为文本类型 //Bool为布尔类型也称flage类型（如网络用语：”我要立一个flage要完成某某一件事“）用于判断某两个值的真（ture)和假(false)
 //笔记：var是变量关键字其值可以改变但也不能随意更改 //let是定量关键字也可以称之为常量关键字是一个一旦设置固定不变的量
