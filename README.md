@@ -1,4 +1,4 @@
-![capture](https://github.com/Xhs233/Swift/blob/main/%E5%9B%BE%E7%89%87/24324031-4c6b50f8651c2831.jpeg)
+![image](https://github.com/Xhs233/Swift/blob/main/%E5%9B%BE%E7%89%87/24324031-4c6b50f8651c2831.jpeg)
 #Xcode12  Download https://developer.apple.com/download/more/
 
 
@@ -9,7 +9,7 @@
 
 #Swift官方教程https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 
-![capture](https://github.com/Xhs233/Swift/blob/main/%E5%9B%BE%E7%89%87/Screenshot_2021-02-15-20-30-09-17.png)
+![image](https://github.com/Xhs233/Swift/blob/main/%E5%9B%BE%E7%89%87/Screenshot_2021-02-15-20-30-09-17.png)
 
 
 -Swift学习笔记
