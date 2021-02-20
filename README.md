@@ -3,7 +3,7 @@
 
 #下载我开发的Swift教程app(.apk) https://github.com/Xhs233/Swift/releases/tag/Swift.apk
 #Swift官方文档中文版在所标注的文件夹中
-#简介中的链接https://www.bejson.com/runcode/swift/   是swift运行器
+#简介中的链接https://repl.it/~   是swift运行器
 
 
 
